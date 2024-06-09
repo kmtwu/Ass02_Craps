@@ -14,6 +14,7 @@ public class Main {
         boolean contPoint = true;
         boolean YorN = false;
         String response;
+        System.out.println("Welcome to my craps game!");
         do {
             System.out.println("Your first roll is:");
             System.out.println("Dice 1: " + dice1);
